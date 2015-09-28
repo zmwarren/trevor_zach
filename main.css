@@ -1,4 +1,7 @@
-.hello {
+h1 {
 	font-weight: bold;
 	color: blue;
+}
+.table {
+    align-content: center;
 }
