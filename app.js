@@ -1,0 +1,1 @@
+document.getElementById("hello").innerHTML = "Don't do it!";
